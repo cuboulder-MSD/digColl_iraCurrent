@@ -82,5 +82,8 @@ Statement in collection: This Item is protected by copyright and/or related righ
 
 Rights statement comes from [rightsstatements.org](https://rightsstatements.org/page/1.0/?language=en)
 
+## Resources
+For more information about this collection visit the webpage at the CU Boulder ArchivesSpace; [Ira Current Collection](https://archives.colorado.edu/repositories/2/resources/178).
+
 ## Notes
 Please note that the metadata contained in this repository may not be the most up to date, but is updated on a continuing basis. 
