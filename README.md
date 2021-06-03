@@ -40,7 +40,9 @@ The size or scale of the work. Typically one 16mm film reel in color or black-an
 A particular physical presentation of a resource, including the physical form or medium of material for a resource. Form terms include: [color films (visual works)](http://vocab.getty.edu/page/aat/300417957); [sound films](http://vocab.getty.edu/page/aat/300417955); [silent films](http://vocab.getty.edu/page/aat/300252071); [film reels](http://vocab.getty.edu/page/aat/300400779)
 
 ### Internet Media Type: 
-Standard that indicates the nature and format of a document, file, or assortment of bytes. The [Internet Assigned Numbers Authority (IANA)](https://www.iana.org/assignments/media-types/media-types.xhtml) is responsible for all official MIME. Media type(s) in this collection: video/mp4
+Standard that indicates the nature and format of a document, file, or assortment of bytes. The [Internet Assigned Numbers Authority (IANA)](https://www.iana.org/assignments/media-types/media-types.xhtml) is responsible for all official MIME. 
+
+Media type(s) in this collection: video/mp4
 
 ### Digital Origin
 The method by which a resource achieved digital form. Origin for this collection: reformatted digital
