@@ -93,3 +93,4 @@ Rights statement comes from [rightsstatements.org](https://rightsstatements.org/
 
 
 ## Notes
+Collection still in progress. 
