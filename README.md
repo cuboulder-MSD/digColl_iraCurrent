@@ -111,7 +111,7 @@ Shelf location: COU:491
 ### Related Item
 Information that identifies other resources related to the one being described.
 
-In this case an audio file (U183050995108_narv_currentIra_artistsInTheMakingSound1Of2_a.mp4) that is separate from the video file 9U183050995124_narv_currentIra_artistsInTheMakingPicture1Of2_a.mp4).
+In this case an audio file (U183050995108_narv_currentIra_artistsInTheMakingSound1Of2_a.mp4) that is separate from the video file (U183050995124_narv_currentIra_artistsInTheMakingPicture1Of2_a.mp4).
 
 ### Access Condition
 Information about restrictions imposed on access to a resource.
